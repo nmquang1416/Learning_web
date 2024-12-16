@@ -1,4 +1,5 @@
-<div>
-    quang
-</div>
-<button>quang123123123</button>
+@extends('layout.layout-default')
+
+@section('content')
+    <h1>content</h1>
+@endsection
