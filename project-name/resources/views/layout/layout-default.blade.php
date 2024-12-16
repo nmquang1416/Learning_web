@@ -16,10 +16,11 @@
     <title>@yield('title')</title>
 </head>
 <body>
-@yield('header')
+@extends('header.header')
 
 @yield('content')
 
-@yield('footer')
+
+@extends('footer.footer')
 </body>
 </html>

@@ -1,2 +1,4 @@
-@extends('layout.layout-default')
-
+<div>
+    quang
+</div>
+<button>quang123123123</button>
